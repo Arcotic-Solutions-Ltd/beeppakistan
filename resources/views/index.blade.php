@@ -33,7 +33,7 @@
 
 <!-- Footer -->
 <footer class="main-footer">
-    <p>This project is run by <a href="https://arcoticsolutions.com">Arcotic Solutions</a> and uses the <a href="https://ai.google.dev/gemini-api/docs/models/gemini">Gemini Pro model</a> - Beep Pakistan</p>
+    <p>This project is run by <a href="https://github.com/Arcotic-Solutions-Ltd/beeppakistan">Arcotic Solutions</a> and uses the <a href="https://ai.google.dev/gemini-api/docs/models/gemini">Gemini Pro model</a> - Beep Pakistan</p>
 </footer>
 
 <script src="{{ asset('js/script.js') }}" defer></script>
