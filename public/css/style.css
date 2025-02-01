@@ -154,7 +154,7 @@ span.material-symbols-rounded {
     bottom: 0;
     width: 100%;
     display: flex;
-    padding: 20px 10px;
+    padding: 20px 10px 0px  10px;
     justify-content: center;
     background: var(--outgoing-chat-bg);
     border-top: 1px solid var(--incoming-chat-border);
@@ -325,7 +325,7 @@ span.material-symbols-rounded {
 
 /* Update typing-container to be above footer */
 .typing-container {
-    bottom: 40px; /* Adjust this value based on your footer height */
+    bottom: 60px; /* Adjust this value based on your footer height */
 }
 
 /* Update chat-container padding to account for footer */
