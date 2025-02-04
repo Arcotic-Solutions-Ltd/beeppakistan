@@ -75,3 +75,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 This project is licensed under the MIT License.
 
+## Dedicated to the Memory of Rohingya Genocide Martyrs
+
+This project is dedicated to the memory of the martyrs of the [Rohingya genocide](https://en.wikipedia.org/wiki/Rohingya_genocide). May their struggles never be forgotten. #ProtectTheRohingya #StopRohingyaGenocide
+
