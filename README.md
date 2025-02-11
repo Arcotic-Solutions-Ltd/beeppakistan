@@ -1,6 +1,6 @@
 # Beep Pakistan
 
-This project is a Laravel-based web application that integrates the Gemini Pro machine learning model to generate AI-powered responses.
+This project is a Laravel(11) web application that integrates the Gemini Pro machine learning model to generate AI-powered responses.
 
 ## Features
 
